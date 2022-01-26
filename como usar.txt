@@ -3,7 +3,8 @@ abre o navegador onde ta suas metamask
 loga na metamask(coloca a senha dela)
 
 
-abre o bomb por esse link>>>https://app.bombcrypto.io/webgl/index.html
+abre o bomb por esse link>>>
+https://app.bombcrypto.io/webgl/index.html
 https://app.bombcrypto.io/webgl/index.html
 https://app.bombcrypto.io/webgl/index.html
 https://app.bombcrypto.io/webgl/index.html
